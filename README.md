@@ -4,7 +4,7 @@
 ###  my name is Nitin and i am computer science student. This is my first step to the development career.
 ###  junior developer with no experience But big dreams 🧐.
      
-### &nbcp <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wRijFryCqGL0uMjRCzlTIqdGtIT09kYeMw&usqp=CAU" height="30%" width="30%">
+### <&nbcp> <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wRijFryCqGL0uMjRCzlTIqdGtIT09kYeMw&usqp=CAU" height="30%" width="30%">
 
 
     
