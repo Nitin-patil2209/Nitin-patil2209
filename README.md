@@ -1,5 +1,9 @@
 ### Hi there 👋
 #### About
+###  my name is Nitin and i am computer science student. This is my first step to the development career.
+###  junior developer with no experience But big dreams 🧐.
+
+    
 
 <!--
 **Nitin-patil2209/Nitin-patil2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
