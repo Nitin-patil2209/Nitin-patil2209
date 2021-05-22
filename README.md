@@ -3,7 +3,8 @@
 
 ###  my name is Nitin and i am computer science student. This is my first step to the development career.
 ###  junior developer with no experience But big dreams 🧐.
-     <hr>
+     
+### <img src ="https://static0.cbrimages.com/wordpress/wp-content/uploads/2019/08/Levi-Ackerman-Facts-Cover-Image-1.jpg?q=50&fit=crop&w=960&h=500&dpr=1.5" height="80" width="100">
 
 
     
