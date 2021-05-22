@@ -1,10 +1,11 @@
 ### Hi there 👋
-###  About Me
+###  <h2> About Me </h2>
 
 ###  my name is Nitin and i am computer science student. This is my first step to the development career.
 ###  junior developer with no experience But big dreams 🧐.
+     <hr>
 
-<h1> ininini </h1>
+
     
 
 <!--
