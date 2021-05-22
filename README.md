@@ -5,7 +5,7 @@
 ###  junior developer with no experience But big dreams 🧐.
      
 ### &nbsp; &nbsp; &nbsp; &nbsp; <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wRijFryCqGL0uMjRCzlTIqdGtIT09kYeMw&usqp=CAU" height="30%" width="30%">
-### <img src="https://media.giphy.com/media/HcmeBxVSg8YGA/giphy.gif">
+
 
     
 
