@@ -6,6 +6,12 @@
      
 ### &nbsp; &nbsp; &nbsp; &nbsp; <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wRijFryCqGL0uMjRCzlTIqdGtIT09kYeMw&usqp=CAU" height="30%" width="30%">
 
+### <h2>Languages</h2>
+### <li>HTML</li>
+### <li>Css</li>
+### <li>Javascript</li>
+### <li>Python</li>
+
 
     
 
