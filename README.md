@@ -11,7 +11,7 @@
  <li>Css</li>
  <li>Javascript</li>
  <li>Python</li>
- <hr>
+ 
  <h2>Contact me </h2>
    <a href = "mailto: abc@example.com">Send Email</a>
     
