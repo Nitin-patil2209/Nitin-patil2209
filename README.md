@@ -11,6 +11,10 @@
  <li>Css</li>
  <li>Javascript</li>
  <li>Python</li>
+ <li>Java</li>
+ <li>C</li>
+ <li>PHP</li>
+ <li>SQL</li>
  
  <h2>Contact me </h2>
    <a href = "mailto: abc@example.com">Send Email</a>
