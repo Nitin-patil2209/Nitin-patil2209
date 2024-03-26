@@ -1,8 +1,7 @@
 ### Hi there 👋
   <h2> About Me </h2>
 
-  My name is Nitin and i am computer science student. This is my first step to the development career.
-  junior developer with no experience But big dreams 🧐.
+  Hi there! I'm Nitin Patil, a seasoned professional blending frontend and backend coding expertise with a knack for Cloud Networking projects. With a robust command over AWS Dev-Ops technologies, monitoring, and database management, I thrive in collaborative environments, ensuring seamless communication and teamwork. Let's delve into my toolkit
      
  &nbsp; &nbsp; &nbsp; &nbsp; <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wRijFryCqGL0uMjRCzlTIqdGtIT09kYeMw&usqp=CAU" height="30%" width="30%">
 
